@@ -66,7 +66,14 @@ This small set of exercises prepares you to recognise and work with "object and 
 
 ## Exercise N:
 
-In this exercise you'll _twice_ write a function which takes a single object representing an episode of a tv show, and prints some detail out from the object.
+Call getRandomEpisode() and destructure the value it returns in order to store only the name, season, and number properties.
+Print these properties out to make sure that's working.
+
+In the next exercise you'll use a function to do this more tidily. Delete or comment-out the work from _this_ exercise so that you don't get confused, going forward, about where output is coming from!
+
+## Exercise N: destructure object properties from a function parameter
+
+In this exercise you'll _twice_ write a function, `printEpisode` which takes a single object representing an episode of a tv show, and prints some selected detail out from the object.
 
 The _first_ time, you'll use normal object dot notation to access the values of relevant properties on the object.
 
