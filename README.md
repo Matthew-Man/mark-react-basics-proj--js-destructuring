@@ -45,6 +45,10 @@ This small set of exercises prepares you to recognise and work with "object and 
 - Read this content from Techtonica on [Destructuring in JavaScript](https://github.com/Techtonica/curriculum/blob/main/javascript/destructuring.md)
 - A rather intense 100 seconds: [Destructuring in 100 seconds](https://www.youtube.com/watch?v=UgEaJBz3bjY) - Sections: The first 1minute 10seconds only
 
+In TypeScript
+
+- From the TypeScript handbook: [Destructuring syntax in TypeScript](https://www.typescriptlang.org/docs/handbook/variable-declarations.html#destructuring)
+
 ## Exercise 2: (Warm up) Familiarisation with the data
 
 - Install the [JSONView extension for Google Chrome](https://chrome.google.com/webstore/detail/jsonview/chklaanhfefbnpoihckbnefhakgolnmc?hl=en)
