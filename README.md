@@ -191,6 +191,10 @@ You don't have to understand any of that, yet! However, try to find something in
 
 Discuss with your pair.
 
+## The end - what have you learned?
+
+What have you learned? Do you agree with the learning objectives stated at the start of this document?
+
 ## Credits:
 
 Some exercises use data generated with the excellent [json-generator](https://www.json-generator.com/) using the following recipe:
