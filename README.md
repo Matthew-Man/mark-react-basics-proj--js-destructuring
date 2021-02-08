@@ -181,7 +181,13 @@ It should extract these pieces of information using **only** parameter destructu
 
 Check it works by calling it a few times with random teams.
 
-## Exercise 10: A quick look ahead at React's state hook: `useState`
+## Exercise 10: Refactor one of your React components to use object destructuring of its props object
+
+A very common use of object property destructuring in React is to extract desired values from a component's "props" object.
+
+Review your earlier React projects, find one which uses dot notation to access props, and refactor it to instead destructure the props object in the parameter list.
+
+## Exercise 11: A quick look ahead at React's state hook: `useState`
 
 Take a look at the first code excerpt in the documentation for this popular feature of the React library, called the state hook.
 
