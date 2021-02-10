@@ -6,3 +6,22 @@ const { getRandomTeam } = require('./players.js');
 // console.log(name);
 // console.log(season);
 // console.log(number);
+
+// function printEpisode(episode) {
+//     let season = episode.season;
+//     let number = episode.number;
+//     let name = episode.name;
+//     let summary = episode.summary;
+    
+
+//     console.log(`"${name}" (Season ${season}, Episode ${number})`);
+//     console.log(`Summary: ${summary}`);
+// }
+
+function printEpisode({name, season, number, summary} = episodes) {
+    console.log(`"${name}" (Season ${season}, Episode ${number})`);
+    console.log(`Summary: ${summary}`);
+};
+
+
+printEpisode(getRandomEpisode())
