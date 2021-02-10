@@ -40,7 +40,7 @@ This small set of exercises prepares you to recognise and work with "object and 
 
 ## Exercise 1: Watch/Read
 
-- [Why Is Array/Object Destructuring So Useful And How To Use It](https://www.youtube.com/channel/UCFbNIlppjAuEX4znoulh0Cw) - Sections: Almost all of it. 0-8mins, then 10m46s to 12m0s (destructuring function parameters)
+- [Why Is Array/Object Destructuring So Useful And How To Use It](https://www.youtube.com/watch?v=NIq3qLaHCIs) - Sections: Almost all of it. 0-8mins, then 10m46s to 12m0s (destructuring function parameters)
 - [Object and Array Destructuring in JavaScript](https://ui.dev/object-array-destructuring/) (by Tyler McGinnis) - Sections: The first 3 minutes 20 seconds of the video.
 - Read this content from Techtonica on [Destructuring in JavaScript](https://github.com/Techtonica/curriculum/blob/main/javascript/destructuring.md)
 - A rather intense 100 seconds: [Destructuring in 100 seconds](https://www.youtube.com/watch?v=UgEaJBz3bjY) - Sections: The first 1minute 10seconds only
