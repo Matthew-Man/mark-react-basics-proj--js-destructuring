@@ -25,11 +25,12 @@ const { getRandomTeam, getAllTeams } = require('./players.js');
 
 
 // printEpisode(getRandomEpisode())
-function printPlayers({ players, country} = players) {
+function printPlayers({ players, substitutes }) {
     // console.log(players, country)
     // const ["goalkeeper", "defender1", "defender2", "forward1", "forward2", "forward3"] = getAllTeams.players
     const [a,,,...rest] = players
     console.log(a, rest)
+    console.log(substitutes)
     // console.log(rest)
 }
 
